@@ -18,6 +18,8 @@ set clipboard=unnamedplus
 set number relativenumber
 set encoding=utf-8
 
+set hls 
+
 " work with all tabs
 
 set shiftwidth=2
